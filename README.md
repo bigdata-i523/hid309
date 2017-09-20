@@ -1,15 +1,11 @@
 # hid309
-# Comments
-
-* Mind the ```quotes and do not forget them```
-* Remove all sections that you have not yet created a directory in github with so our automated scripts do not fail. Only add them if the 
 
 # Owner
 
 ```
 owner:
     hid: 309
-    name:Dubey, Lokesh
+    name: Dubey, Lokesh
     url: https://github.com/bigdata-i523/hid309
 ```
 
@@ -18,11 +14,9 @@ owner:
 ```
 paper1:
    author: 
-   - Gregor von Laszewski
-   - Fugang Wang
+   - Dubey, Lokesh 
    hid:
-   - 000
-   - 001
+   - 309
    title: This is my paper about xyz
    abstract: This paper showcases this and that and the other
    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
