@@ -17,8 +17,8 @@ paper1:
    - Dubey, Lokesh 
    hid:
    - 309
-   title: This is my paper about xyz
-   abstract: This paper showcases this and that and the other
+   title: BigData Analytics using Apache Spark in Social Media
+   abstract: This paper showcases how Apache Spark Streaming APIs can be utilize to run heavy analytics workload against immense amount of data from Social Media.
    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
    type: latex
    
@@ -30,9 +30,9 @@ paper1:
 ```
 paper2:
    author: 
-   - Gregor von Laszewski
+   - Dubey, Lokesh
    hid:
-   - 000
+   - 309
    title: This is my paper about the other abc
    abstract: This paper showcases tis and that and the other in regards to abc
    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
