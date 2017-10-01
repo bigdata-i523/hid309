@@ -21,9 +21,9 @@ paper1:
    abstract: This paper showcases how Apache Spark Streaming APIs can be utilize to run heavy analytics workload against immense amount of data from Social Media.
    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
    type: latex
-   
    status: in progress
- ```
+   chapter: Technology
+```
    
 # Paper 2
 
