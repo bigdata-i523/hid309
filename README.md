@@ -18,45 +18,9 @@ paper1:
    hid:
    - 309
    title: BigData Analytics using Apache Spark in Social Media
-   abstract: This paper showcases how Apache Spark Streaming APIs can be utilize to run heavy analytics workload against immense amount of data from Social Media.
-   url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
+   abstract: Social Media, as organic and diverse it is, is also a vital source of very large amount of data. And it increased even more with the introduction of Smart Phones. As it has been established very well in recent years that Social Media and the data derived from it not only helps with decision making for substantial businesses but also helps considerably for marketing and increasing business revenues. We explore various benefits and techniques of using Big Data technology Apache Spark\footnote{https://spark.apache.org/} in unison with enormous Social Media data and how it can overcome the shortcomings of Traditional Analytics Technologies. We illustrate application of Spark with Social Media data with a few Social Media use cases pertaining to product enhancement and marketing. 
+   url: https://github.com/bigdata-i523/sample-hid000/paper1/report.pdf
    type: latex
-   status: in progress
+   status: 99%
    chapter: Technology
 ```
-   
-# Paper 2
-
-```
-paper2:
-   author: 
-   - Dubey, Lokesh
-   hid:
-   - 309
-   title: This is my paper about the other abc
-   abstract: This paper showcases tis and that and the other in regards to abc
-   url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
-   type: word
-   status: in progress
-```
-
-# Project 
-
-We will assign new pids for you when we approve the project and reports   
-Just use one type and delete the line with 
-
-```
-paper2:
-   type: project
-   type: report
-   author: 
-   - Dubey, Lokesh
-   hid:
-   - 309
-   title: Benchmarking a BigData Docker deployment
-   abstract: This paper showcases tis and that and the other 
-   url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
-   type: latex
-   status: in progress
-```
-   
