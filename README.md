@@ -17,7 +17,7 @@ paper1:
    - Dubey, Lokesh 
    hid:
    - 309
-   title: BigData Analytics using Apache Spark in Social Media
+   title: "BigData Analytics using Apache Spark in Social Media"
    abstract: >
        Social Media, as organic and diverse it is, is also a vital
        source of very large amount of data. And it increased even more
