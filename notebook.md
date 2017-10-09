@@ -14,8 +14,8 @@
   * Github account for course: https://github.com/smshiver
   * Future Systems account: https://portal.futuresystems.org/projects/all
   * Chameleon Cloud account: https://www.chameleoncloud.org/docs/getting-started
-  * Completed the Entry Survey and Doodle suvery about weekly meeting times
-* 09/15/17  Initialized Github repository with README.md, license, .gitignore, and created course notebook
+  * Completed the Entry Survey.
+* 09/15/17  Initialized Github repository with README.md, license, .gitignore.
 * 09/17/17  Submitted github pull request to correct minor typos on Course webpage 
 * 09/17/17  Update github HID README, paper1 LaTex templates, report.bib, report.tex 
 
