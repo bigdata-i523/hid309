@@ -26,7 +26,7 @@ paper1:
      Apache Spark in unison with enormous Social Media data and how it can overcome the shortcomings of Traditional Analytics 
      Technologies. We illustrate application of Spark with Social Media data with a few Social Media use cases pertaining to 
      product enhancement and marketing. 
-   url: https://github.com/bigdata-i523/hid309/paper1/report.pdf
+   url: https://github.com/bigdata-i523/hid309/blob/master/paper1/report.pdf
    type: latex
    status: 100%
    chapter: Technology
