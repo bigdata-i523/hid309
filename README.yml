@@ -5,17 +5,19 @@ owner:
     url: https://github.com/bigdata-i523/hid309
 paper1:
     abstract: >
-         Social Media, as organic and diverse it is, is also a vital source
-         of very large amount of data. And it increased even more with the introduction
-         of Smart Phones. As it has been established very well in recent years that
-         Social Media and the data derived from it not only helps with decision making
-         for substantial businesses but also helps considerably for marketing and
-          increasing business revenues. We explore various benefits and techniques
-         of using Big Data technology Apache Spark in unison with enormous Social
-         Media data and how it can overcome the shortcomings of Traditional Analytics
-         Technologies. We illustrate application of Spark with Social Media data
-         with a few Social Media use cases pertaining to product enhancement and
-          marketing.
+         Social Media, as organic and diverse it is, is also a vital
+         source of very large amount of data. And it increased even
+         more with the introduction of Smart Phones. As it has been
+         established very well in recent years that Social Media and
+         the data derived from it not only helps with decision making
+         for substantial businesses but also helps considerably for
+         marketing and increasing business revenues. We explore
+         various benefits and techniques of using Big Data technology
+         Apache Spark in unison with enormous Social Media data and
+         how it can overcome the shortcomings of Traditional Analytics
+         Technologies. We illustrate application of Spark with Social
+         Media data with a few Social Media use cases pertaining to
+         product enhancement and marketing.
     author:
         - Dubey, Lokesh
     chapter: Technology
@@ -28,19 +30,22 @@ paper1:
     url: https://github.com/bigdata-i523/hid309/blob/master/paper1/report.pdf
 paper2:
     abstract: >
-	It has been widely accepted fact and has been addressed in many studies
-	that Social Media data is prominently growing and diversified way of
-	communication which entails immense possibilities with the data that
-	it generates. It is not only a medium of socializing but a major platform
-	for businesses to capitalize on this medium to increase their revenue in
-	every way possible. Many new avenues of complexities and diversities
-	introduced in social media data are identified and their respective
-	challenges are stated. Challenges are identified in handling the social
-	media data to derive correlations and implicit key performance indices to
-	improve the efficacy and outreach of marketing campaigns of organizations.
-	Big Data solutions to keep up with the paradigm shift in social media data
-	and to remain focused towards upcoming possibilities are stated with some
-	illustrations on political marketing and Internet Of Things.
+      	It has been widely accepted fact and has been addressed in
+      	many studies that Social Media data is prominently growing and
+      	diversified way of communication which entails immense
+      	possibilities with the data that it generates. It is not only
+      	a medium of socializing but a major platform for businesses to
+      	capitalize on this medium to increase their revenue in every
+      	way possible. Many new avenues of complexities and diversities
+      	introduced in social media data are identified and their
+      	respective challenges are stated. Challenges are identified in
+      	handling the social media data to derive correlations and
+      	implicit key performance indices to improve the efficacy and
+      	outreach of marketing campaigns of organizations.  Big Data
+      	solutions to keep up with the paradigm shift in social media
+      	data and to remain focused towards upcoming possibilities are
+      	stated with some illustrations on political marketing and
+      	Internet Of Things.
     author:
         - Dubey, Lokesh
     chapter: Technology
