@@ -22,7 +22,7 @@
 #  Theory
 * 08/25-09/01/17  Started reading a lot of research papers on social media and analytics for paper1 topic.
 * 08/25-09/01/17  Started on e-Commerce and LifeStyle Case Study
-* 09/14/17-       Started on  Web Search and Text Mining
+* 09/14/17-10/25/17       Started on  Web Search and Text Mining
 
 # Writing
 * 09/09/17  Topic for Paper 1: Big Data, Apache Spark, Social Media Data.
@@ -34,6 +34,9 @@
 * 10/04/17  Paper 1: Update abstract, introduction, challenges, applicaiton of spark, conclusion, and report.bib. Got the paper working in Sharelatex.
 * 10/08/17  Paper 1: Final changes to paper based on new discussions on Piazza and things which I felt should be imporoved.
 * 10/09/17  Paper 1: Submitted.
+* 10/13/17  Paper 2: Research started
+* 10/24/17  Paper 2: Started writing paper
+* 10/30/17  Paper 2: Nearing completion on matter.
 
 # Location
 * Address: 9251 Count Fleet Dr, Raleigh, NC, 27617
