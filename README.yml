@@ -26,7 +26,6 @@ paper1:
     status: 100%
     review: 11/09/2017
     title: BigData Analytics using Apache Spark in Social Media
-    type: latex
     url: https://github.com/bigdata-i523/hid309/blob/master/paper1/
 paper2:
     abstract: >
@@ -53,5 +52,4 @@ paper2:
         - 309
     status: 100%
     title: BigData Applications in Social Media for Marketing
-    type: latex
     url: https://github.com/bigdata-i523/hid309/blob/master/paper2/
